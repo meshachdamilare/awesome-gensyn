@@ -17,9 +17,9 @@
     - [rl-swarm releases](#rl-swarm-releases)
     - [blockassist releases](#blockassist-releases)
     - [codeassist releases](#codeassist-releases)
-  - [Guide by Community Members](#community-guide)
 - [Research papers, blogs and publications](#research-papers-blogs-and-publications)
 - [Talks, posters, and presentations](#talks-posters-and-presentations)
+- [Guide by Community Members](#community-guide)
 
 ## Libraries and solutions
 Zama's FHE libraries and solutions
@@ -56,5 +56,14 @@ Tutorials by the Genysn team
 - [Set up codeassist](https://github.com/gensyn-ai/codeassist/blob/main/README.md) - A complete guide on how to set up private and local AI coding assistant, developed by Gensyn.
 - [A detailed blog on blockassist](https://blog.gensyn.ai/introducing-codeassist/) An Introduction to CodeAssistt - an AI coding assistant that trains on your local machine.
 
+## Product Releases
+Gensyn product release round‑ups
 
-
+### rl-swarm-releases
+- [RL-swarm to run CodeZero](https://github.com/gensyn-ai/rl-swarm/releases/tag/v0.7.0) – Nov 12 2025 (latest)
+- [All rl-swarm releases ](https://github.com/gensyn-ai/rl-swarm/releases)
+### blockassist
+- [All blockassist releases ](https://github.com/gensyn-ai/blockassist/releases)
+### rl-swarm-contracts
+- [All rl-swarm smart-contract releases ](https://github.com/gensyn-ai/rl-swarm-contracts/releases)
+  
