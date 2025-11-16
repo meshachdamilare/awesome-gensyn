@@ -107,6 +107,6 @@ Gensyn product release round‑ups
 ## Other Tutorials and Guides by Community members
 
 # Contributing
-All contributions are welcome! Please take a look at the [contribution guidelines](#) first.
+All contributions are welcome! Please take a look at the [contribution guidelines](https://github.com/meshachdamilare/awesome-gensyn/blob/main/CONTRIBUTING.md) first.
 
 
