@@ -8,9 +8,10 @@
 - [Table of contents](#table-of-contents)
 - [Libraries and solutions](#libraries-and-solutions)
 - [Litepaper](#Litepaper)
-- [Tutorials](#tutorials)
+- [Products/Tutorials](#products-tutorials)
   - [rl-swarm](#rl-swarm)
   - [blockassist](#blockassist)
+  - [judge](#judge)
   - [codeassist](#coodeassist)
   - [Product releases](#product-releases)
     - [rl-swarm releases](#rl-swarm-releases)
@@ -34,15 +35,26 @@ Zama's FHE libraries and solutions
 
 ## Litepaper
 Litepaper by Gensyn from the docs
-- [gensyn litepaper](https://docs.gensyn.ai/litepaper): The hyperscale, cost-efficient compute protocol for the world’s deep learning models
-- [rl-swarm litepaper](https://github.com/gensyn-ai/paper-rl-swarm/blob/main/latest.pdf): Technical report for the RL Swarm framework
+- [gensyn litepaper](https://docs.gensyn.ai/litepaper): The hyperscale, cost-efficient compute protocol for the world’s deep learning models.
+- [rl-swarm litepaper](https://github.com/gensyn-ai/paper-rl-swarm/blob/main/latest.pdf): Technical report for the RL Swarm framework.
 
-## Tutorials
+## Products/Tutorials
 Tutorials by the Genysn team
 
 ### rl-swarm
 - [Set up rl-swarm](https://github.com/gensyn-ai/rl-swarm/blob/main/README.md) - A guide on how to set up rl-swarm on your machine.
 - [A detailed blog on rl-swarm](https://blog.gensyn.ai/rl-swarm-a-framework-for-collaborative-rl/) A comprehensive guide on RL-Swarm: a framework for collaborative RL.
+
+### blockassist
+- [Set up blockassist](https://github.com/gensyn-ai/blockassist/blob/main/README.md) - A guide on how to run blockassist.
+- [A detailed blog on blockassist](https://blog.gensyn.ai/introducing-blockassist/) A Comprehensive Introduction to BlockAssist - an AI Minecraft assistant that learns from your in-game actions.
+
+### judge
+- [Introducing Judge](https://blog.gensyn.ai/introducing-judge/) An Introduction to Judge - a cryptographically verifiable AI evaluation to scale ML & RL models.
+
+### codeassist
+- [Set up codeassist](https://github.com/gensyn-ai/codeassist/blob/main/README.md) - A complete guide on how to set up private and local AI coding assistant, developed by Gensyn.
+- [A detailed blog on blockassist](https://blog.gensyn.ai/introducing-codeassist/) An Introduction to CodeAssistt - an AI coding assistant that trains on your local machine.
 
 
 
