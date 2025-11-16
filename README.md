@@ -1,7 +1,5 @@
-# awesome-gensyn
+# Awesome Gensyn [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-<p align="center">
-  <img src="https://github.com/meshachdamilare/awesome-gensyn/blob/main/assets/image1.png" width="200px">
-  <br><br/>
+
+
  A curated list of awesome Gensyn tools, blog posts, libraries, research papers, and tutorials (from both the team and community members).
-</p>
