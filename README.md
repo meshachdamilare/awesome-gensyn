@@ -35,6 +35,14 @@ Zama's FHE libraries and solutions
 ## Litepaper
 Litepaper by Gensyn from the docs
 - [gensyn litepaper](https://docs.gensyn.ai/litepaper): The hyperscale, cost-efficient compute protocol for the world’s deep learning models
-- [rl-swarm litepaper](https://github.com/gensyn-ai/paper-rl-swarm/blob/main/latest.pdf): Technical report for the RL Swarm framework 
+- [rl-swarm litepaper](https://github.com/gensyn-ai/paper-rl-swarm/blob/main/latest.pdf): Technical report for the RL Swarm framework
+
+## Tutorials
+Tutorials by the Genysn team
+
+### rl-swarm
+- [Set up rl-swarm](https://github.com/gensyn-ai/rl-swarm/blob/main/README.md) - A guide on how to set up rl-swarm on your machine.
+- [A detailed blog on rl-swarm](https://blog.gensyn.ai/rl-swarm-a-framework-for-collaborative-rl/) A comprehensive guide on RL-Swarm: a framework for collaborative RL.
+
 
 
