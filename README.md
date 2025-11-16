@@ -15,3 +15,6 @@
     - [rl-swarm releases](#rl-swarm-releases)
     - [blockassist releases](#blockassist-releases)
     - [codeassist releases](#codeassist-releases)
+  - [Guide by Community Members](#community-guide)
+- [Research papers, blogs and publications](#research-papers-blogs-and-publications)
+- [Talks, posters, and presentations](#talks-posters-and-presentations)
