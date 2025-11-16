@@ -16,8 +16,9 @@
   - [Product releases](#product-releases)
     - [rl-swarm releases](#rl-swarm-releases)
     - [blockassist releases](#blockassist-releases)
+    - [rl-swarm contracts releases](#codeassist-releases)
     - [codeassist releases](#codeassist-releases)
-- [Research papers, blogs and publications](#research-papers-blogs-and-publications)
+- [Research publications and Articles](#research-publications-articles)
 - [Talks, posters, and presentations](#talks-posters-and-presentations)
 - [Guide by Community Members](#community-guide)
 
@@ -25,7 +26,7 @@
 Zama's FHE libraries and solutions
 
 - [rl-swarm](https://github.com/gensyn-ai/rl-swarm): A fully open source framework for creating RL training swarms over the internet.
-- [blockassist](https://github.com/gensyn-ai/blockassist): BlockAssist is an AI assistant that learns from its user’s actions in Minecraft.
+- [blockassist](https://github.com/gensyn-ai/blockassist): An open-source AI assistant that learns from your Minecraft gameplay, training locally and running on your device.
 - [codeassist](https://github.com/gensyn-ai/codeassist): A completely private and local AI coding assistant, developed by Gensyn. It helps you practice programming problems and train a novel assistant to help you code.
 - [rl-swarm-contracts](https://github.com/gensyn-ai/rl-swarm-contracts): Smart contracts for the RL Swarm project, focusing on coordinating swarm behavior onchain.
 - [hdee](https://github.com/gensyn-ai/hdee): Open source code for the paper: HDEE: Heterogeneous Domain Expert Ensemble.
@@ -50,8 +51,7 @@ Tutorials by the Genysn team
 - [A detailed blog on blockassist](https://blog.gensyn.ai/introducing-blockassist/) A Comprehensive Introduction to BlockAssist - an AI Minecraft assistant that learns from your in-game actions.
 
 ### judge
-- [Introducing Judge](https://blog.gensyn.ai/introducing-judge/) An Introduction to Judge - a cryptographically verifiable AI evaluation to scale ML & RL models.
-
+- [Introducing Judge](https://blog.gensyn.ai/introducing-judge/) A verifiable evaluation framework built on Verde that makes model judgments transparent, reproducible, and cryptographically verifiable.
 ### codeassist
 - [Set up codeassist](https://github.com/gensyn-ai/codeassist/blob/main/README.md) - A complete guide on how to set up private and local AI coding assistant, developed by Gensyn.
 - [A detailed blog on blockassist](https://blog.gensyn.ai/introducing-codeassist/) An Introduction to CodeAssistt - an AI coding assistant that trains on your local machine.
@@ -65,5 +65,25 @@ Gensyn product release round‑ups
 ### blockassist
 - [All blockassist releases ](https://github.com/gensyn-ai/blockassist/releases)
 ### rl-swarm-contracts
-- [All rl-swarm smart-contract releases ](https://github.com/gensyn-ai/rl-swarm-contracts/releases)
+- [All rl-swarm contracts releases ](https://github.com/gensyn-ai/rl-swarm-contracts/releases)
+
+## Research publications and Articles
+### Research publications
+- [Towards Robustness in Decentralised Reinforcement Learning](https://blog.gensyn.ai/towards-robustness-in-decentralised-reinforcement-learning/) - NOV 2025
+- [SAPO, Efficient LM Post-Training with Collective RL](https://blog.gensyn.ai/sapo-efficient-lm-post-training-with-collective-rl/) - SEP 2025
+- [CheckFree: fault tolerant training without checkpoints](https://blog.gensyn.ai/checkfree-fault-tolerant-training-without-checkpoints/) - JUN 2025
+- [NoLoCo: training large models with no all-reduce](https://blog.gensyn.ai/noloco-training-large-models-with-no-all-reduce/) - JUN 2025
+- [Diverse Expert Ensembles: embarrassingly parallel LLMs from diverse experts](https://blog.gensyn.ai/diverse-expert-ensembles-embarrassingly-parallel-llms-from-diverse-experts/) - FEB 2025
+- [Diverse Expert Ensembles: embarrassingly parallel LLMs from diverse experts](https://blog.gensyn.ai/diverse-expert-ensembles-embarrassingly-parallel-llms-from-diverse-experts/) - FEB 2025
+- [RL Swarm: a framework for collaborative RL](https://blog.gensyn.ai/rl-swarm-a-framework-for-collaborative-rl/) - FEB 2025
+- [SkipPipe: a communication efficient method for decentralised training](https://blog.gensyn.ai/skippipe-a-communication-efficient-method-for-decentralised-training/) - FEB 2025
+- [Verde: a verification system for machine learning over untrusted nodes](https://blog.gensyn.ai/verde-a-verification-system-for-machine-learning-over-untrusted-nodes/) - FEB 2025
+### Articles
+- [CodeZero: Extending RL-Swarm Toward Cooperative Coding Agents](https://blog.gensyn.ai/codezero-extending-rl-swarm-toward-cooperative-coding-agents/) - NOV 2025
+- [Introducing CodeAssist](https://blog.gensyn.ai/introducing-codeassist/) - NOV 2025
+- [Introducing Judge](http://blog.gensyn.ai/introducing-judge/) - AUG 2025
+- [Introducing BlockAssist](https://blog.gensyn.ai/introducing-blockassist/) - AUG 2025
+- [Introducing RL Swarm’s new backend: GenRL](https://blog.gensyn.ai/introducing-rl-swarms-new-backend-genrl/) - JUN 2025
+- [GPT@home: Why the Future of Training is Decentralized](https://blog.gensyn.ai/gpt-home-why-the-future-of-training-is-decentralized/) - FEB 2024
+
   
