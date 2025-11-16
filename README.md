@@ -55,6 +55,7 @@ Tutorials by the Genysn team
 ### codeassist
 - [Set up codeassist](https://github.com/gensyn-ai/codeassist/blob/main/README.md) - A complete guide on how to set up private and local AI coding assistant, developed by Gensyn.
 - [A detailed blog on blockassist](https://blog.gensyn.ai/introducing-codeassist/) An Introduction to CodeAssistt - an AI coding assistant that trains on your local machine.
+- [[Video] CodeAssist Demo](https://www.youtube.com/watch?v=ahfmHdNwYbk)
 
 ## Product Releases
 Gensyn product release round‑ups
@@ -94,6 +95,14 @@ Gensyn product release round‑ups
 - [Gensyn Docs](https://docs.gensyn.ai/)
 
 ## Talks, posters, and presentations
-
+- [[Video] Decentralised Training X Space: Max Ryabinin, Bowen Peng, Harry Grieve, Johannes Hageman, Mo Baioumy](https://www.youtube.com/watch?v=AFPoUxKA0H4) - NOV 2024
+- [[Video] Gensyn: The Network for Machine Intelligence - Talk from Ben Fielding](https://www.youtube.com/watch?v=YkWv9wsU_HU) - OCT 2024
+- [[Video] Building Gensyn with Harry Grieve and Ben Fielding](https://www.youtube.com/watch?v=a2GE-7YbW8s) - SEPT 2024
+- [[Video] Democratizing AI with Gensyn’s Decentralized Compute](https://www.youtube.com/watch?v=9HXSWiuNPs4) - MAY 2024
+- [[Video] The race to scale GPU compute and the A.I. Renaissance with Gensyn Co-Founders](https://www.youtube.com/watch?v=rF8kCnb4JJs) - OCT 2023
+- [[Video] Where Crypto and AI Meet | Featuring Akash, Bittensor, Gensyn & DCG](https://www.youtube.com/watch?v=BRViKbLdmh8) - MAY 2023
+- [[Video] Ben Fielding & Harry Grieve: Gensyn – The Deep Learning Compute Protocol](https://www.youtube.com/live/YdmmMljzNGQ) - NOV 2022
+- [[Video] Privacy Paradigm w Nym, Dusk, Gensyn, Anoma and Maven 11](https://www.youtube.com/live/g3CvAV8uhRQ) - APR 2022
 
 ## Other Tutorials and Guides by Community members
+
