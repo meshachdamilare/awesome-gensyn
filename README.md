@@ -11,7 +11,7 @@
 - [Tutorials](#tutorials)
   - [rl-swarm](#rl-swarm)
   - [blockassist](#blockassist)
-  - [coodeassist](#coodeassist)
+  - [codeassist](#coodeassist)
   - [Product releases](#product-releases)
     - [rl-swarm releases](#rl-swarm-releases)
     - [blockassist releases](#blockassist-releases)
@@ -19,3 +19,15 @@
   - [Guide by Community Members](#community-guide)
 - [Research papers, blogs and publications](#research-papers-blogs-and-publications)
 - [Talks, posters, and presentations](#talks-posters-and-presentations)
+
+## Libraries and solutions
+Zama's FHE libraries and solutions
+
+- [rl-swarm](https://github.com/gensyn-ai/rl-swarm): A fully open source framework for creating RL training swarms over the internet.
+- [blockassist](https://github.com/gensyn-ai/blockassist): BlockAssist is an AI assistant that learns from its user’s actions in Minecraft.
+- [codeassist](https://github.com/gensyn-ai/codeassist): A completely private and local AI coding assistant, developed by Gensyn. It helps you practice programming problems and train a novel assistant to help you code.
+- [rl-swarm-contracts](https://github.com/gensyn-ai/rl-swarm-contracts): Smart contracts for the RL Swarm project, focusing on coordinating swarm behavior onchain.
+- [hdee](https://github.com/gensyn-ai/hdee): Open source code for the paper: HDEE: Heterogeneous Domain Expert Ensemble.
+- [skippipe](https://github.com/gensyn-ai/skippipe): Open source code for the paper: SkipPipe: Partial and Reordered Pipelining Framework for Training LLMs in Heterogeneous Networks.
+- [paper-rl-swarm](https://github.com/gensyn-ai/paper-rl-swarm): Technical report for the RL Swarm framework - a fully open source framework for creating RL training swarms over the internet.
+<br></br>
