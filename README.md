@@ -68,7 +68,7 @@ Gensyn product release round‑ups
 - [All rl-swarm contracts releases ](https://github.com/gensyn-ai/rl-swarm-contracts/releases)
 
 ## Research publications and Articles
-### Research publications
+### research publications
 - [Towards Robustness in Decentralised Reinforcement Learning](https://blog.gensyn.ai/towards-robustness-in-decentralised-reinforcement-learning/) - NOV 2025
 - [SAPO, Efficient LM Post-Training with Collective RL](https://blog.gensyn.ai/sapo-efficient-lm-post-training-with-collective-rl/) - SEP 2025
 - [CheckFree: fault tolerant training without checkpoints](https://blog.gensyn.ai/checkfree-fault-tolerant-training-without-checkpoints/) - JUN 2025
@@ -78,7 +78,7 @@ Gensyn product release round‑ups
 - [RL Swarm: a framework for collaborative RL](https://blog.gensyn.ai/rl-swarm-a-framework-for-collaborative-rl/) - FEB 2025
 - [SkipPipe: a communication efficient method for decentralised training](https://blog.gensyn.ai/skippipe-a-communication-efficient-method-for-decentralised-training/) - FEB 2025
 - [Verde: a verification system for machine learning over untrusted nodes](https://blog.gensyn.ai/verde-a-verification-system-for-machine-learning-over-untrusted-nodes/) - FEB 2025
-### Articles
+### articles
 - [CodeZero: Extending RL-Swarm Toward Cooperative Coding Agents](https://blog.gensyn.ai/codezero-extending-rl-swarm-toward-cooperative-coding-agents/) - NOV 2025
 - [Introducing CodeAssist](https://blog.gensyn.ai/introducing-codeassist/) - NOV 2025
 - [Introducing Judge](http://blog.gensyn.ai/introducing-judge/) - AUG 2025
