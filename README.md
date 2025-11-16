@@ -24,7 +24,7 @@
     - [arxiv](#arxiv)
     - [docs](#docs)
 - [Talks, posters, and presentations](#talks-posters-and-presentations)
-- [Guide by Community Members](#community-guide)
+- [Additional Tutorials and Guides by Community Members](#additional-tutorials-and-guides-by-community-members)
 
 ## Libraries and solutions
 Zama's FHE libraries and solutions
