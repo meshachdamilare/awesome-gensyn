@@ -28,7 +28,6 @@
 
 ## Libraries and solutions
 Zama's FHE libraries and solutions
-
 - [rl-swarm](https://github.com/gensyn-ai/rl-swarm): A fully open source framework for creating RL training swarms over the internet.
 - [blockassist](https://github.com/gensyn-ai/blockassist): An open-source AI assistant that learns from your Minecraft gameplay, training locally and running on your device.
 - [codeassist](https://github.com/gensyn-ai/codeassist): A completely private and local AI coding assistant, developed by Gensyn. It helps you practice programming problems and train a novel assistant to help you code.
@@ -45,15 +44,12 @@ Litepaper by Gensyn from the docs
 
 ## Products and Tutorials
 Tutorials by the Genysn team
-
 ### rl-swarm
 - [Set up rl-swarm](https://github.com/gensyn-ai/rl-swarm/blob/main/README.md) - A guide on how to set up rl-swarm on your machine.
 - [A detailed blog on rl-swarm](https://blog.gensyn.ai/rl-swarm-a-framework-for-collaborative-rl/) A comprehensive guide on RL-Swarm: a framework for collaborative RL.
-
 ### blockassist
 - [Set up blockassist](https://github.com/gensyn-ai/blockassist/blob/main/README.md) - A guide on how to run blockassist.
 - [A detailed blog on blockassist](https://blog.gensyn.ai/introducing-blockassist/) A Comprehensive Introduction to BlockAssist - an AI Minecraft assistant that learns from your in-game actions.
-
 ### judge
 - [Introducing Judge](https://blog.gensyn.ai/introducing-judge/) A verifiable evaluation framework built on Verde that makes model judgments transparent, reproducible, and cryptographically verifiable.
 ### codeassist
@@ -62,7 +58,6 @@ Tutorials by the Genysn team
 
 ## Product Releases
 Gensyn product release round‑ups
-
 ### rl-swarm-releases
 - [RL-swarm to run CodeZero](https://github.com/gensyn-ai/rl-swarm/releases/tag/v0.7.0) – Nov 12 2025 (latest)
 - [All rl-swarm releases ](https://github.com/gensyn-ai/rl-swarm/releases)
@@ -98,4 +93,7 @@ Gensyn product release round‑ups
 ### docs
 - [Gensyn Docs](https://docs.gensyn.ai/)
 
-  
+## Talks, posters, and presentations
+
+
+## Other Tutorials and Guides by Community members
