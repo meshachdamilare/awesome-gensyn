@@ -19,6 +19,10 @@
     - [rl-swarm contracts releases](#rl-swarm-contracts-releases)
     - [codeassist releases](#codeassist-releases)
 - [Research publications and Articles](#research-publications-and-articles)
+    - [research publications](#research-publications)
+    - [articles](#articles)
+    - [arxiv](#arxiv)
+    - [docs](#docs)
 - [Talks, posters, and presentations](#talks-posters-and-presentations)
 - [Guide by Community Members](#community-guide)
 
@@ -85,5 +89,13 @@ Gensyn product release round‑ups
 - [Introducing BlockAssist](https://blog.gensyn.ai/introducing-blockassist/) - AUG 2025
 - [Introducing RL Swarm’s new backend: GenRL](https://blog.gensyn.ai/introducing-rl-swarms-new-backend-genrl/) - JUN 2025
 - [GPT@home: Why the Future of Training is Decentralized](https://blog.gensyn.ai/gpt-home-why-the-future-of-training-is-decentralized/) - FEB 2024
+### arxiv
+- [Verde](https://arxiv.org/abs/2502.19405)
+- [CheckFree](https://arxiv.org/abs/2506.15461)
+- [NoLoCo](https://arxiv.org/abs/2506.10911)
+- [SkipPipe](https://arxiv.org/abs/2502.19913)
+- [Diverse Expert Ensembles](https://arxiv.org/abs/2502.19385)
+### docs
+- [Gensyn Docs](https://docs.gensyn.ai/)
 
   
