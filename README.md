@@ -62,9 +62,9 @@ Gensyn product release round‑ups
 ### rl-swarm-releases
 - [RL-swarm to run CodeZero](https://github.com/gensyn-ai/rl-swarm/releases/tag/v0.7.0) – Nov 12 2025 (latest)
 - [All rl-swarm releases ](https://github.com/gensyn-ai/rl-swarm/releases)
-### blockassist
+### blockassist releases
 - [All blockassist releases ](https://github.com/gensyn-ai/blockassist/releases)
-### rl-swarm-contracts
+### rl-swarm contracts releases
 - [All rl-swarm contracts releases ](https://github.com/gensyn-ai/rl-swarm-contracts/releases)
 
 ## Research publications and Articles
