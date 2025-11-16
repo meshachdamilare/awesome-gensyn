@@ -18,7 +18,7 @@
     - [blockassist releases](#blockassist-releases)
     - [rl-swarm contracts releases](#rl-swarm-contracts-releases)
     - [codeassist releases](#codeassist-releases)
-- [Research publications and Articles](#research-publications-articles)
+- [Research publications and Articles](#research-publications-and-articles)
 - [Talks, posters, and presentations](#talks-posters-and-presentations)
 - [Guide by Community Members](#community-guide)
 
