@@ -8,7 +8,7 @@
 - [Table of contents](#table-of-contents)
 - [Libraries and solutions](#libraries-and-solutions)
 - [Litepaper](#Litepaper)
-- [Products/Tutorials](#products-tutorials)
+- [Products and Tutorials](#products-and-tutorials)
   - [rl-swarm](#rl-swarm)
   - [blockassist](#blockassist)
   - [judge](#judge)
@@ -39,7 +39,7 @@ Litepaper by Gensyn from the docs
 - [gensyn litepaper](https://docs.gensyn.ai/litepaper): The hyperscale, cost-efficient compute protocol for the world’s deep learning models.
 - [rl-swarm litepaper](https://github.com/gensyn-ai/paper-rl-swarm/blob/main/latest.pdf): Technical report for the RL Swarm framework.
 
-## Products/Tutorials
+## Products and Tutorials
 Tutorials by the Genysn team
 
 ### rl-swarm
