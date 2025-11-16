@@ -7,7 +7,7 @@
 
 - [Table of contents](#table-of-contents)
 - [Libraries and solutions](#libraries-and-solutions)
-- [White papers](#white-papers)
+- [Litepaper](#Litepaper)
 - [Tutorials](#tutorials)
   - [rl-swarm](#rl-swarm)
   - [blockassist](#blockassist)
@@ -31,3 +31,10 @@ Zama's FHE libraries and solutions
 - [skippipe](https://github.com/gensyn-ai/skippipe): Open source code for the paper: SkipPipe: Partial and Reordered Pipelining Framework for Training LLMs in Heterogeneous Networks.
 - [paper-rl-swarm](https://github.com/gensyn-ai/paper-rl-swarm): Technical report for the RL Swarm framework - a fully open source framework for creating RL training swarms over the internet.
 <br></br>
+
+## Litepaper
+Litepaper by Gensyn from the docs
+- [gensyn litepaper](https://docs.gensyn.ai/litepaper): The hyperscale, cost-efficient compute protocol for the world’s deep learning models
+- [rl-swarm litepaper](https://github.com/gensyn-ai/paper-rl-swarm/blob/main/latest.pdf): Technical report for the RL Swarm framework 
+
+
